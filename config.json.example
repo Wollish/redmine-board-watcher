@@ -1,0 +1,26 @@
+{
+  "_comment": "Edit this file to configure the watcher for your own setup. Nothing else in this folder needs to change.",
+  "slackBotToken": "xoxb-REPLACE-WITH-YOUR-SLACK-BOT-TOKEN",
+  "slackRecipients": [
+    "#your-slack-channel"
+  ],
+  "salesReps": [
+    "Agnieszka Vikman",
+    "Andreas Christodoulou",
+    "Cédric Dupont",
+    "Daniela Pellegrini",
+    "Erika Rossignaud",
+    "Irina Mazajeva",
+    "Julija Miksa",
+    "Karen Schranz",
+    "Kaspars Berzinskis",
+    "Meagan Abela",
+    "Per Sundell",
+    "Shaun Smart",
+    "Stefan Lazarevic",
+    "Stefania Taylor",
+    "Tiana Thambipillai",
+    "William Adams",
+    "William Larsson"
+  ]
+}

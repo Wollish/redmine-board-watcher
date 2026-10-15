@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+
+# Real config, with your actual Slack token, is never committed —
+# only config.json.example (the placeholder template) is tracked.
+config.json
+
+*.log
+.watchdog_state*
+.watchdog_stuck_state*
+
+redmine_board_snapshot.json
+redmine_activity_snapshot.json
+redmine_new_issues.json
+redmine_sales_comments_log.json
